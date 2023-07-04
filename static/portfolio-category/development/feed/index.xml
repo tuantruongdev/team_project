@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Development &#8211; Truong&#039;s team</title>
+	<atom:link href="/portfolio-category/development/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2019 16:05:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>Mobile Coin View App</title>
+		<link>/portfolio/mobile-coin-view-app/</link>
+					<comments>/portfolio/mobile-coin-view-app/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2019 16:05:55 +0000</pubDate>
+				<guid isPermaLink="false">http://wpdemo.archiwp.com/onum/?post_type=ot_portfolio&#038;p=1470</guid>
+
+					<description><![CDATA[How It Works Mobile apps have already penetrated every sphere of our lives and every imaginable business niche. Naturally, the appeal of mobile apps for its market potential cannot fade away anytime soon, at least until another great technology can replace mobile apps. development company and its business clients. . So, what about the failure [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1827" class="elementor elementor-1827">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-717be8f3 ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="717be8f3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3c33aff5 ot-flex-column-vertical" data-id="3c33aff5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6c69056 elementor-pagination-position-inside elementor-widget elementor-widget-image-carousel" data-id="6c69056" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;dots&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.12.1 - 02-04-2023 */
+.elementor-widget-image-carousel .swiper,.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure,.elementor-widget-image-carousel .swiper .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized) .swiper-slide,.elementor-image-carousel-wrapper:not(.swiper-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}</style>		<div class="elementor-image-carousel-wrapper swiper" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2019/11/project-details-2.jpg" alt="project-details-2" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2019/11/project-details-12.jpg" alt="project-details-12" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2019/11/project-details-9.jpg" alt="project-details-9" /></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c467c35 ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c467c35" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6b5c2f11 ot-flex-column-vertical" data-id="6b5c2f11" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-21e36493 elementor-widget elementor-widget-heading" data-id="21e36493" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.12.1 - 02-04-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">How It Works</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3d25efbe elementor-widget elementor-widget-text-editor" data-id="3d25efbe" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.12.1 - 02-04-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Mobile apps have already penetrated every sphere of our lives and every imaginable business niche. Naturally, the appeal of mobile apps for its market potential cannot fade away anytime soon, at least until another great technology can replace mobile apps. development company and its business clients. . So, what about the failure of other apps? What are the key factors responsible for the failure of millions of apps?</p><p>Front-end development essentially focuses and works on the visual perceptions of a website. It’s about the look, load time, pattern and functionality of the components of a website. Front-End is a mix of programming and layout that powers the visuals and interactions on the web. </p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1c1db53c ot-flex-column-vertical" data-id="1c1db53c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1de7591d elementor-widget elementor-widget-heading" data-id="1de7591d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Published:</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-12e92d29 elementor-widget elementor-widget-heading" data-id="12e92d29" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">September 18, 2019</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1b1ead13 elementor-widget elementor-widget-heading" data-id="1b1ead13" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Category:</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-696b5855 elementor-widget elementor-widget-heading" data-id="696b5855" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Development</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-103d30d4 elementor-widget elementor-widget-heading" data-id="103d30d4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Client:</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-672fca8f elementor-widget elementor-widget-heading" data-id="672fca8f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Oceanthemes</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7d8591ff elementor-widget elementor-widget-otsocialshare" data-id="7d8591ff" data-element_type="widget" data-widget_type="otsocialshare.default">
+				<div class="elementor-widget-container">
+			<div class="otf-social-share clearfix shape-circle"><a class="share-facebook" href="https://www.facebook.com/sharer/sharer.php?u=%2Fportfolio%2Fmobile-coin-view-app%2F" target="_blank"><i class="fab fa-facebook-f"></i></a><a class="share-twitter" href="https://twitter.com/intent/tweet?text=Mobile+Coin+View+App&amp;url=%2Fportfolio%2Fmobile-coin-view-app%2F&amp;via=Truong&#039;s team" target="_blank"><i class="fab fa-twitter"></i></a><a class="share-pinterest" href="https://pinterest.com/pin/create/button/?url=%2Fportfolio%2Fmobile-coin-view-app%2F&amp;media=http://localhost/wordpress/wp-content/uploads/2019/11/project2.jpg&amp;description=Mobile+Coin+View+App" data-pin-custom="true" target="_blank"><i class="fab fa-pinterest-p"></i></a><a class="share-email" href="mailto:?Subject=Mobile+Coin+View+App&amp;Body=I%20saw%20this%20and%20thought%20of%20you!%20 %2Fportfolio%2Fmobile-coin-view-app%2F"><i class="fa fa-envelope"></i></a></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/portfolio/mobile-coin-view-app/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Responsive Design</title>
+		<link>/portfolio/responsive-design/</link>
+					<comments>/portfolio/responsive-design/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2019 16:04:14 +0000</pubDate>
+				<guid isPermaLink="false">http://wpdemo.archiwp.com/onum/?post_type=ot_portfolio&#038;p=1463</guid>
+
+					<description><![CDATA[How It Works Mobile apps have already penetrated every sphere of our lives and every imaginable business niche. Naturally, the appeal of mobile apps for its market potential cannot fade away anytime soon, at least until another great technology can replace mobile apps. development company and its business clients. . So, what about the failure [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1463" class="elementor elementor-1463">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-35f019ac ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="35f019ac" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-12cce264 ot-flex-column-vertical" data-id="12cce264" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2be1ad9 gallery-spacing-custom elementor-widget elementor-widget-image-gallery" data-id="2be1ad9" data-element_type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.12.1 - 02-04-2023 */
+.elementor-image-gallery .gallery-item{display:inline-block;text-align:center;vertical-align:top;width:100%;max-width:100%;margin:0 auto}.elementor-image-gallery .gallery-item img{margin:0 auto}.elementor-image-gallery .gallery-item .gallery-caption{margin:0}.elementor-image-gallery figure img{display:block}.elementor-image-gallery figure figcaption{width:100%}.gallery-spacing-custom .elementor-image-gallery .gallery-icon{padding:0}@media (min-width:768px){.elementor-image-gallery .gallery-columns-2 .gallery-item{max-width:50%}.elementor-image-gallery .gallery-columns-3 .gallery-item{max-width:33.33%}.elementor-image-gallery .gallery-columns-4 .gallery-item{max-width:25%}.elementor-image-gallery .gallery-columns-5 .gallery-item{max-width:20%}.elementor-image-gallery .gallery-columns-6 .gallery-item{max-width:16.666%}.elementor-image-gallery .gallery-columns-7 .gallery-item{max-width:14.28%}.elementor-image-gallery .gallery-columns-8 .gallery-item{max-width:12.5%}.elementor-image-gallery .gallery-columns-9 .gallery-item{max-width:11.11%}.elementor-image-gallery .gallery-columns-10 .gallery-item{max-width:10%}}@media (min-width:480px) and (max-width:767px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:50%}}@media (max-width:479px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:100%}}</style>		<div class="elementor-image-gallery">
+			
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2be1ad9" data-elementor-lightbox-title="project-details-6" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkzMiwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMTlcLzExXC9wcm9qZWN0LWRldGFpbHMtNi5qcGciLCJzbGlkZXNob3ciOiIyYmUxYWQ5In0%3D" href='/wp-content/uploads/2019/11/project-details-6.jpg'><img width="1170" height="700" src="/wp-content/uploads/2019/11/project-details-6.jpg" class="attachment-full size-full" alt="" decoding="async" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2be1ad9" data-elementor-lightbox-title="project-details-4" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkzMCwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMTlcLzExXC9wcm9qZWN0LWRldGFpbHMtNC5qcGciLCJzbGlkZXNob3ciOiIyYmUxYWQ5In0%3D" href='/wp-content/uploads/2019/11/project-details-4.jpg'><img width="1170" height="700" src="/wp-content/uploads/2019/11/project-details-4.jpg" class="attachment-full size-full" alt="" decoding="async" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2be1ad9" data-elementor-lightbox-title="project-details-2" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkyOCwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMTlcLzExXC9wcm9qZWN0LWRldGFpbHMtMi5qcGciLCJzbGlkZXNob3ciOiIyYmUxYWQ5In0%3D" href='/wp-content/uploads/2019/11/project-details-2.jpg'><img width="1170" height="700" src="/wp-content/uploads/2019/11/project-details-2.jpg" class="attachment-full size-full" alt="" decoding="async" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2be1ad9" data-elementor-lightbox-title="project-details-8" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkzNCwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMTlcLzExXC9wcm9qZWN0LWRldGFpbHMtOC5qcGciLCJzbGlkZXNob3ciOiIyYmUxYWQ5In0%3D" href='/wp-content/uploads/2019/11/project-details-8.jpg'><img width="1170" height="700" src="/wp-content/uploads/2019/11/project-details-8.jpg" class="attachment-full size-full" alt="" decoding="async" /></a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-164e5991 ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="164e5991" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1a33f44e ot-flex-column-vertical" data-id="1a33f44e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2b49f7e1 elementor-widget elementor-widget-heading" data-id="2b49f7e1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">How It Works</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-45835d6e elementor-widget elementor-widget-text-editor" data-id="45835d6e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Mobile apps have already penetrated every sphere of our lives and every imaginable business niche. Naturally, the appeal of mobile apps for its market potential cannot fade away anytime soon, at least until another great technology can replace mobile apps. development company and its business clients. . So, what about the failure of other apps? What are the key factors responsible for the failure of millions of apps?</p><p>Front-end development essentially focuses and works on the visual perceptions of a website. It’s about the look, load time, pattern and functionality of the components of a website. Front-End is a mix of programming and layout that powers the visuals and interactions on the web. </p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3931856f ot-flex-column-vertical" data-id="3931856f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7a6ed386 elementor-widget elementor-widget-heading" data-id="7a6ed386" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Published:</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-31ad9759 elementor-widget elementor-widget-heading" data-id="31ad9759" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">September 12, 2019</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1a90b4e7 elementor-widget elementor-widget-heading" data-id="1a90b4e7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Category:</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4bd51f26 elementor-widget elementor-widget-heading" data-id="4bd51f26" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Development / Ideas</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-195f4bf8 elementor-widget elementor-widget-heading" data-id="195f4bf8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Client:</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-603040ad elementor-widget elementor-widget-heading" data-id="603040ad" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Oceanthemes</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-27cdb3b6 elementor-widget elementor-widget-otsocialshare" data-id="27cdb3b6" data-element_type="widget" data-widget_type="otsocialshare.default">
+				<div class="elementor-widget-container">
+			<div class="otf-social-share clearfix shape-circle"><a class="share-facebook" href="https://www.facebook.com/sharer/sharer.php?u=%2Fportfolio%2Fresponsive-design%2F" target="_blank"><i class="fab fa-facebook-f"></i></a><a class="share-twitter" href="https://twitter.com/intent/tweet?text=Responsive+Design&amp;url=%2Fportfolio%2Fresponsive-design%2F&amp;via=Truong&#039;s team" target="_blank"><i class="fab fa-twitter"></i></a><a class="share-pinterest" href="https://pinterest.com/pin/create/button/?url=%2Fportfolio%2Fresponsive-design%2F&amp;media=http://localhost/wordpress/wp-content/uploads/2019/11/project6.jpg&amp;description=Responsive+Design" data-pin-custom="true" target="_blank"><i class="fab fa-pinterest-p"></i></a><a class="share-email" href="mailto:?Subject=Responsive+Design&amp;Body=I%20saw%20this%20and%20thought%20of%20you!%20 %2Fportfolio%2Fresponsive-design%2F"><i class="fa fa-envelope"></i></a></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/portfolio/responsive-design/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>App for Health</title>
+		<link>/portfolio/app-for-health/</link>
+					<comments>/portfolio/app-for-health/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2019 16:03:34 +0000</pubDate>
+				<guid isPermaLink="false">http://wpdemo.archiwp.com/onum/?post_type=ot_portfolio&#038;p=1461</guid>
+
+					<description><![CDATA[Published: September 18, 2019 Category: Development Client: Oceanthemes How it Works M obile apps have already penetrated every sphere of our lives and every imaginable business niche. Naturally, the appeal of mobile apps for its market potential cannot fade away anytime soon, at least until another great technology can replace mobile apps. development company and [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1461" class="elementor elementor-1461">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-fe7348f elementor-section-content-middle ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fe7348f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-7397a2c1 ot-flex-column-vertical" data-id="7397a2c1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5eda9bc1 elementor-widget elementor-widget-heading" data-id="5eda9bc1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Published:</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1a9fbfeb elementor-widget elementor-widget-heading" data-id="1a9fbfeb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">September 18, 2019</span>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-46b296ab ot-flex-column-vertical" data-id="46b296ab" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2564db45 elementor-widget elementor-widget-heading" data-id="2564db45" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Category:</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2f989b02 elementor-widget elementor-widget-heading" data-id="2f989b02" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Development</span>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-75306ac ot-flex-column-vertical" data-id="75306ac" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-22738e2f elementor-widget elementor-widget-heading" data-id="22738e2f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Client:</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5674621a elementor-widget elementor-widget-heading" data-id="5674621a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Oceanthemes</span>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-662d533a ot-flex-column-vertical" data-id="662d533a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7d94a69d elementor-widget elementor-widget-otsocialshare" data-id="7d94a69d" data-element_type="widget" data-widget_type="otsocialshare.default">
+				<div class="elementor-widget-container">
+			<div class="otf-social-share clearfix shape-circle"><a class="share-facebook" href="https://www.facebook.com/sharer/sharer.php?u=%2Fportfolio%2Fapp-for-health%2F" target="_blank"><i class="fab fa-facebook-f"></i></a><a class="share-twitter" href="https://twitter.com/intent/tweet?text=App+for+Health&amp;url=%2Fportfolio%2Fapp-for-health%2F&amp;via=Truong&#039;s team" target="_blank"><i class="fab fa-twitter"></i></a><a class="share-pinterest" href="https://pinterest.com/pin/create/button/?url=%2Fportfolio%2Fapp-for-health%2F&amp;media=http://localhost/wordpress/wp-content/uploads/2019/11/project5.jpg&amp;description=App+for+Health" data-pin-custom="true" target="_blank"><i class="fab fa-pinterest-p"></i></a><a class="share-email" href="mailto:?Subject=App+for+Health&amp;Body=I%20saw%20this%20and%20thought%20of%20you!%20 %2Fportfolio%2Fapp-for-health%2F"><i class="fa fa-envelope"></i></a></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4721b524 ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4721b524" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-75eb426 ot-flex-column-vertical" data-id="75eb426" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4c1cf25c elementor-widget elementor-widget-image" data-id="4c1cf25c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.12.1 - 02-04-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="1170" height="700" src="/wp-content/uploads/2019/11/project-details-5.jpg" class="attachment-full size-full wp-image-1931" alt="" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-51c3c70d ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="51c3c70d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7c0d096e ot-flex-column-vertical" data-id="7c0d096e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3ac6cd83 elementor-widget elementor-widget-heading" data-id="3ac6cd83" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">How it Works</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-424c6425 elementor-widget elementor-widget-text-editor" data-id="424c6425" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<span class="drop-cap"><span class="drop-cap-letter">M</span></span> obile apps have already penetrated every sphere of our lives and every imaginable business niche. Naturally, the appeal of mobile apps for its market potential cannot fade away anytime soon, at least until another great technology can replace mobile apps. development company and its business clients. . So, what about the failure of other apps? What are the key factors responsible for the failure of millions of apps? Well, apart from the ill-conceived app idea and development and design flaws many apps simply fail because of their <strong class="text-dark">pre-launch and post-launch shortcomings.</strong>
+
+Front-end development essentially focuses and works on the visual perceptions of a website. It’s about the look, load time, pattern and functionality of the components of a website. Front-End is a mix of programming and layout that powers the visuals and interactions on the web. The talented Front-end developers provide turnkey Front-End development services whether you are planning to change the Front-End from older technology to newer one, for example Angular.
+<blockquote>“I cannot give you the formula for success, but I can give you the formula for failure.
+It is: Try to please everybody.”
+<cite>– Herbert Bayard Swope</cite></blockquote>						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-3cdc3f83 elementor-section-full_width ot-traditional elementor-section-height-default elementor-section-height-default" data-id="3cdc3f83" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-72231c22 ot-flex-column-vertical" data-id="72231c22" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-76474576 elementor-arrows-position-inside elementor-widget elementor-widget-image-carousel" data-id="76474576" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;2&quot;,&quot;navigation&quot;:&quot;arrows&quot;,&quot;autoplay_speed&quot;:7000,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2019/11/project-details-s1.png" alt="project-details-s1" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2019/11/project-details-s2.png" alt="project-details-s2" /></figure></div>			</div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i aria-hidden="true" class="eicon-chevron-left"></i>						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i aria-hidden="true" class="eicon-chevron-right"></i>						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-9e85b96 elementor-widget elementor-widget-heading" data-id="9e85b96" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Process & Results</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7b594e35 elementor-widget elementor-widget-text-editor" data-id="7b594e35" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>But while DevOps as a development approach remained uncontested, the security aspects of the app development process largely remained under the shadow. There was a perception that along with the operations, app security should equally be a part of the development process. With the demand for integrating security with the product life cycle, the DevSecOps approach has emerged. <span style="text-decoration: underline;"><a href="#">This approach has already proven</a></span> to play an instrumental role in reducing the security vulnerabilities of the apps. While integrating the security with the DevOps approach has always been of high demand, this requires a completely different range of processes and tools. DevOps is already known to boast of an agile development methodology.</p><p>While integrating the security with the DevOps approach has always been of high demand, this requires a completely different range of processes and tools. DevOps is already known to boast of an agile development methodology. Though the companies embracing DevSecOps development methodology are only a few in numbers, in the time to come many companies working with DevOps approach can actually embrace this new methodology for giving their projects.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/portfolio/app-for-health/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Basics Project</title>
+		<link>/portfolio/basics-project/</link>
+					<comments>/portfolio/basics-project/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2019 16:02:28 +0000</pubDate>
+				<guid isPermaLink="false">http://wpdemo.archiwp.com/onum/?post_type=ot_portfolio&#038;p=1459</guid>
+
+					<description><![CDATA[How It Works Mobile apps have already penetrated every sphere of our lives and every imaginable business niche. Naturally, the appeal of mobile apps for its market potential cannot fade away anytime soon, at least until another great technology can replace mobile apps. development company and its business clients. . So, what about the failure [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1824" class="elementor elementor-1824">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-68b05692 ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="68b05692" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2bf8f816 ot-flex-column-vertical" data-id="2bf8f816" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-773c66c3 elementor-widget elementor-widget-image" data-id="773c66c3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1170" height="700" src="/wp-content/uploads/2019/11/project-details-8.jpg" class="attachment-full size-full wp-image-1934" alt="" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5e10abb9 ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5e10abb9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-496c86b2 ot-flex-column-vertical" data-id="496c86b2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-583107f9 elementor-widget elementor-widget-heading" data-id="583107f9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">How It Works</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-42a8c0d4 elementor-widget elementor-widget-text-editor" data-id="42a8c0d4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Mobile apps have already penetrated every sphere of our lives and every imaginable business niche. Naturally, the appeal of mobile apps for its market potential cannot fade away anytime soon, at least until another great technology can replace mobile apps. development company and its business clients. . So, what about the failure of other apps? What are the key factors responsible for the failure of millions of apps?</p><p>Front-end development essentially focuses and works on the visual perceptions of a website. It’s about the look, load time, pattern and functionality of the components of a website. Front-End is a mix of programming and layout that powers the visuals and interactions on the web. </p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5332fd35 ot-flex-column-vertical" data-id="5332fd35" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-465a96e2 elementor-widget elementor-widget-heading" data-id="465a96e2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Published:</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6d80fec7 elementor-widget elementor-widget-heading" data-id="6d80fec7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">January 10, 2020</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-35a57337 elementor-widget elementor-widget-heading" data-id="35a57337" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Category:</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4b43bec5 elementor-widget elementor-widget-heading" data-id="4b43bec5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Design / Development</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-11961b83 elementor-widget elementor-widget-heading" data-id="11961b83" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Client:</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-15251c8a elementor-widget elementor-widget-heading" data-id="15251c8a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Oceanthemes</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3279eccd elementor-widget elementor-widget-otsocialshare" data-id="3279eccd" data-element_type="widget" data-widget_type="otsocialshare.default">
+				<div class="elementor-widget-container">
+			<div class="otf-social-share clearfix shape-circle"><a class="share-facebook" href="https://www.facebook.com/sharer/sharer.php?u=%2Fportfolio%2Fbasics-project%2F" target="_blank"><i class="fab fa-facebook-f"></i></a><a class="share-twitter" href="https://twitter.com/intent/tweet?text=Basics+Project&amp;url=%2Fportfolio%2Fbasics-project%2F&amp;via=Truong&#039;s team" target="_blank"><i class="fab fa-twitter"></i></a><a class="share-pinterest" href="https://pinterest.com/pin/create/button/?url=%2Fportfolio%2Fbasics-project%2F&amp;media=http://localhost/wordpress/wp-content/uploads/2019/11/project8.jpg&amp;description=Basics+Project" data-pin-custom="true" target="_blank"><i class="fab fa-pinterest-p"></i></a><a class="share-email" href="mailto:?Subject=Basics+Project&amp;Body=I%20saw%20this%20and%20thought%20of%20you!%20 %2Fportfolio%2Fbasics-project%2F"><i class="fa fa-envelope"></i></a></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/portfolio/basics-project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Corporate Website</title>
+		<link>/portfolio/corporate-website/</link>
+					<comments>/portfolio/corporate-website/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2019 15:58:31 +0000</pubDate>
+				<guid isPermaLink="false">http://wpdemo.archiwp.com/onum/?post_type=ot_portfolio&#038;p=1451</guid>
+
+					<description><![CDATA[How It Works Mobile apps have already penetrated every sphere of our lives and every imaginable business niche. Naturally, the appeal of mobile apps for its market potential cannot fade away anytime soon, at least until another great technology can replace mobile apps. development company and its business clients. . So, what about the failure [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1821" class="elementor elementor-1821">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-1f75a7c4 ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1f75a7c4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1b652fd2 ot-flex-column-vertical" data-id="1b652fd2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c28afe0 gallery-spacing-custom elementor-widget elementor-widget-image-gallery" data-id="c28afe0" data-element_type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-gallery">
+			
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="c28afe0" data-elementor-lightbox-title="project-details-4" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkzMCwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMTlcLzExXC9wcm9qZWN0LWRldGFpbHMtNC5qcGciLCJzbGlkZXNob3ciOiJjMjhhZmUwIn0%3D" href='/wp-content/uploads/2019/11/project-details-4.jpg'><img width="1170" height="700" src="/wp-content/uploads/2019/11/project-details-4.jpg" class="attachment-full size-full" alt="" decoding="async" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="c28afe0" data-elementor-lightbox-title="project-details-12" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkzOCwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMTlcLzExXC9wcm9qZWN0LWRldGFpbHMtMTIuanBnIiwic2xpZGVzaG93IjoiYzI4YWZlMCJ9" href='/wp-content/uploads/2019/11/project-details-12.jpg'><img width="1170" height="700" src="/wp-content/uploads/2019/11/project-details-12.jpg" class="attachment-full size-full" alt="" decoding="async" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="c28afe0" data-elementor-lightbox-title="project-details-11" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkzNywidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMTlcLzExXC9wcm9qZWN0LWRldGFpbHMtMTEuanBnIiwic2xpZGVzaG93IjoiYzI4YWZlMCJ9" href='/wp-content/uploads/2019/11/project-details-11.jpg'><img width="1170" height="700" src="/wp-content/uploads/2019/11/project-details-11.jpg" class="attachment-full size-full" alt="" decoding="async" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="c28afe0" data-elementor-lightbox-title="project-details-3" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTkyOSwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC93b3JkcHJlc3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMTlcLzExXC9wcm9qZWN0LWRldGFpbHMtMy5qcGciLCJzbGlkZXNob3ciOiJjMjhhZmUwIn0%3D" href='/wp-content/uploads/2019/11/project-details-3.jpg'><img width="1170" height="700" src="/wp-content/uploads/2019/11/project-details-3.jpg" class="attachment-full size-full" alt="" decoding="async" /></a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-219ce6c6 ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="219ce6c6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-699f45f7 ot-flex-column-vertical" data-id="699f45f7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2fc09f18 elementor-widget elementor-widget-heading" data-id="2fc09f18" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">How It Works</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ffe2561 elementor-widget elementor-widget-text-editor" data-id="ffe2561" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Mobile apps have already penetrated every sphere of our lives and every imaginable business niche. Naturally, the appeal of mobile apps for its market potential cannot fade away anytime soon, at least until another great technology can replace mobile apps. development company and its business clients. . So, what about the failure of other apps? What are the key factors responsible for the failure of millions of apps?</p><p>Front-end development essentially focuses and works on the visual perceptions of a website. It’s about the look, load time, pattern and functionality of the components of a website. Front-End is a mix of programming and layout that powers the visuals and interactions on the web. </p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1a413792 ot-flex-column-vertical" data-id="1a413792" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5e844c5c elementor-widget elementor-widget-heading" data-id="5e844c5c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Published:</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6c260f36 elementor-widget elementor-widget-heading" data-id="6c260f36" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">November 11, 2018</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a1076d3 elementor-widget elementor-widget-heading" data-id="a1076d3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Category:</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-66c543d7 elementor-widget elementor-widget-heading" data-id="66c543d7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Development</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-735cba55 elementor-widget elementor-widget-heading" data-id="735cba55" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Client:</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-622e0d0 elementor-widget elementor-widget-heading" data-id="622e0d0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Oceanthemes</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4404ed0a elementor-widget elementor-widget-otsocialshare" data-id="4404ed0a" data-element_type="widget" data-widget_type="otsocialshare.default">
+				<div class="elementor-widget-container">
+			<div class="otf-social-share clearfix shape-circle"><a class="share-facebook" href="https://www.facebook.com/sharer/sharer.php?u=%2Fportfolio%2Fcorporate-website%2F" target="_blank"><i class="fab fa-facebook-f"></i></a><a class="share-twitter" href="https://twitter.com/intent/tweet?text=Corporate+Website&amp;url=%2Fportfolio%2Fcorporate-website%2F&amp;via=Truong&#039;s team" target="_blank"><i class="fab fa-twitter"></i></a><a class="share-pinterest" href="https://pinterest.com/pin/create/button/?url=%2Fportfolio%2Fcorporate-website%2F&amp;media=http://localhost/wordpress/wp-content/uploads/2019/11/project11.jpg&amp;description=Corporate+Website" data-pin-custom="true" target="_blank"><i class="fab fa-pinterest-p"></i></a><a class="share-email" href="mailto:?Subject=Corporate+Website&amp;Body=I%20saw%20this%20and%20thought%20of%20you!%20 %2Fportfolio%2Fcorporate-website%2F"><i class="fa fa-envelope"></i></a></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/portfolio/corporate-website/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
