@@ -3,15 +3,16 @@ package models
 import (
 	"fmt"
 	"gorm.io/gorm"
+	"time"
 )
 
 const DEFAULT_POINTS = 0
 
 type Device struct {
-	Id         int32  `json:"id" gorm:"primarykey"`
-	DeviceId   string `json:"device_id" gorm:"unique"`
-	Point      int32  `json:"point" gorm:"point"`
-	LastUpdate string `json:"last_update" gorm:"last_update"`
+	Id         int32     `json:"id" gorm:"primarykey"`
+	DeviceId   string    `json:"device_id" gorm:"unique"`
+	Point      int32     `json:"point" gorm:"point"`
+	LastUpdate time.Time `json:"last_update" gorm:"default:current_timestamp"`
 }
 
 func (*Device) TableName() string {
